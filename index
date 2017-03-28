@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Just an Generic Page</title>
+
+  </head>
+  <body>
+    <h1> Just an Generic heading</h1>
+    <p> Not a lot to read here/ I am just an obligatory paragraph here? living os example in a JavaScript Book. I'm looking for someone to make my life more exciting</p>
+    <script src="script.js"></script>
+  </body>
+</html>
