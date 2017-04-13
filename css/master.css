@@ -1,0 +1,12 @@
+body{
+  font-family: Arial;
+  font-size: 12px;
+}
+h1{
+  font-size: 48px;
+}
+img {
+  width: 500px;
+  height: 500px;
+  outline: 4px dashed black;
+}

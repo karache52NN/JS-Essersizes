@@ -3,10 +3,13 @@
   <head>
     <meta charset="utf-8">
     <title>Battleship</title>
+    <link rel="stylesheet" href="css/master.css">
 
   </head>
   <body>
-    <h1> Play battleship</h1>
+    <h1> Image guess</h1>
+    <img src="img/zeroblur.jpg" alt="img" id="zero1">
+    <img src="img/zeroblur.jpg" alt="img" id="zero2">
     <script src="script.js"></script>
   </body>
 </html>
