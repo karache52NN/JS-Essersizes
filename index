@@ -10,6 +10,7 @@
     <h1> Image guess</h1>
     <img src="img/zeroblur.jpg" alt="img" id="zero1">
     <img src="img/zeroblur.jpg" alt="img" id="zero2">
+    <img src="img/zeroblur.jpg" alt="img" id="zero3">
     <script src="script.js"></script>
   </body>
 </html>
