@@ -10,6 +10,7 @@ img {
   height: 500px;
   outline: 4px dashed black;
 }
+
 .hidden{
   visibility: hidden;
 }

@@ -7,10 +7,9 @@
 
   </head>
   <body>
-    <h1> Image guess</h1>
-    <img src="img/zeroblur.jpg" alt="img" id="zero1">
-    <img src="img/zeroblur.jpg" alt="img" id="zero2">
-    <img src="img/zeroblur.jpg" alt="img" id="zero3">
+    <h1>Anon functions</h1>
+    <button type="button" name="button" id="clickme">click me</button>
+    <div id="message"></div>
     <script src="script.js"></script>
   </body>
 </html>
